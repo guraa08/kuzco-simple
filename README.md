@@ -42,7 +42,7 @@ Dengan ViKey inference, kamu bisa proses task seperti menggunakan GPU dengan bia
    Untuk log Kuzco:
 
    ```bash
-   docker-compose logs -f --tail 100
+   cd && cd kuzco-installer-docker/kuzco-main && docker-compose logs -f --tail 100
    ```
 
 ## 💡 Referensi
